@@ -1,0 +1,7 @@
+n1 = input('enter number')
+n2 = input('enter number')
+n3 = input('enter number')
+float(n1)
+float(n2)
+float(n3)
+print('the numbers are' ,n1 ,n2 ,n3)
